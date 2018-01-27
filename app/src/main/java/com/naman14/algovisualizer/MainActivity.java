@@ -237,7 +237,7 @@ public class MainActivity extends AppCompatActivity {
 
         List<String> heading5 = new ArrayList<String>();
         heading5.add("BFS Traversal");
-        heading5.add("DFS Travsersal");
+        heading5.add("DFS Traversal");
         heading5.add("Dijkstra");
         heading5.add("Bellman Ford");
 
